@@ -1,9 +1,9 @@
-## Socials:
+### Socials:
 > [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2vXWEEN)
 > [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/iamsickinmymind)
 > [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dominik.morse@morsecode.cz) 
 
-# Tech Stack:
+### Tech Stack:
 > ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 > ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 > ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
